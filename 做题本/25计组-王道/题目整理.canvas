@@ -1,0 +1,77 @@
+{
+	"nodes":[
+		{
+			"id":"19596bb0d9eb9d56",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 2 章 数据的表示和运算/题目整理.canvas",
+			"styleAttributes":{},
+			"x":400,
+			"y":-360,
+			"width":400,
+			"height":418
+		},
+		{
+			"id":"7476b2a118a7a24b",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 1 章 计算机系统概述/题目整理.canvas",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-360,
+			"width":400,
+			"height":418
+		},
+		{
+			"id":"251b2bc5c4e5276b",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 3 章 存储系统/题目整理.canvas",
+			"styleAttributes":{},
+			"x":920,
+			"y":-360,
+			"width":400,
+			"height":418
+		},
+		{
+			"id":"422c25904df4986c",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题目整理.canvas",
+			"styleAttributes":{},
+			"x":1480,
+			"y":-360,
+			"width":400,
+			"height":418
+		},
+		{
+			"id":"ec915915bc1494d2",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.3 程序的机器级代码表示/题目整理.canvas",
+			"styleAttributes":{},
+			"x":1480,
+			"y":160,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"f6be03fcbb846834",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 5 章 中央处理器/题目整理.canvas",
+			"styleAttributes":{},
+			"x":2040,
+			"y":-360,
+			"width":400,
+			"height":418
+		},
+		{
+			"id":"87ca7d6ea1000f43",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 6 章 总线/题目整理.canvas",
+			"styleAttributes":{},
+			"x":2560,
+			"y":-360,
+			"width":400,
+			"height":418
+		},
+		{"id":"48b1941b14be1781","x":3120,"y":-360,"width":440,"height":418,"type":"file","file":"刷题/25计组-王道/第 7 章 IO系统/题目整理.canvas"}
+	],
+	"edges":[],
+	"metadata":{}
+}

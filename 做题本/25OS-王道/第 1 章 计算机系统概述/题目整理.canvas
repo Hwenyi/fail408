@@ -1,0 +1,335 @@
+{
+  "nodes": [
+    {
+      "id": "5f5182f7d37724f4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1590,
+      "y": 1600,
+      "width": 6060,
+      "height": 1090,
+      "label": "1.3"
+    },
+    {
+      "id": "d38dab201752ce98",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": 3680,
+      "width": 4750,
+      "height": 1090,
+      "label": "1.6"
+    },
+    {
+      "id": "861f76b845e7c620",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": -725,
+      "width": 4470,
+      "height": 1090,
+      "label": "1.2"
+    },
+    {
+      "id": "5fff751f700231d4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2000,
+      "y": -280,
+      "width": 2520,
+      "height": 540,
+      "label": "1.1"
+    },
+    {
+      "id": "eca4be3fb8b5aa0dbf0717a11c31626d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题3.md",
+      "styleAttributes": {},
+      "x": 2110,
+      "y": -705,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "60ce4372178435d5e4d2b1f7780b99ec",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题12.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": -155,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ccbf2e98235417dab6422bcef62402a0",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题1.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": -705,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "dfb0e6c1ca34bc811e9c8760cc6d5449",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.1 操作系统的基本概念/题8.md",
+      "styleAttributes": {},
+      "x": -1940,
+      "y": -260,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "26a2fad16cd36c1700201c7a2ee156d6",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题20.md",
+      "styleAttributes": {},
+      "x": 5290,
+      "y": -705,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "4933328699accb30f9fb445f183297ad",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题8.md",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": -705,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "58ff0027ce14441ba03dcee305aa1095",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题10.md",
+      "styleAttributes": {},
+      "x": 3410,
+      "y": -705,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "3e1ff012223beed960ee9b621f108d37",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题17.md",
+      "styleAttributes": {},
+      "x": 4640,
+      "y": -705,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "e7b052005a1f534841fcb030222ea178",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.2 操作系统发展历程/题16.md",
+      "styleAttributes": {},
+      "x": 2110,
+      "y": -155,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "e7f2854368b7c1c9c31c03c28a0e5d6a",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.1 操作系统的基本概念/题10.md",
+      "styleAttributes": {},
+      "x": -1300,
+      "y": -260,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "af18df6ba1f3716c7b16c27ead4ca319",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题7.md",
+      "styleAttributes": {},
+      "x": -1570,
+      "y": 1620,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ec9262c5262cee3a14eabc0721c98c0b",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题19.md",
+      "styleAttributes": {},
+      "x": -1570,
+      "y": 2170,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ea52272e9af943002d43fa2c26e844f8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题8.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": 1620,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ea0da9dc0c40a4fe841a369867c03c96",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题31.md",
+      "styleAttributes": {},
+      "x": 3200,
+      "y": 1620,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "e52c15c5a549bc355715fc76a95568d7",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题27.md",
+      "styleAttributes": {},
+      "x": 1900,
+      "y": 1620,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "255ba080064a500a372c300a0ee14af9",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题37.md",
+      "styleAttributes": {},
+      "x": 1900,
+      "y": 2170,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "119edbbb46d9dafd135c81961713e981",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题33.md",
+      "styleAttributes": {},
+      "x": 3850,
+      "y": 1620,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "a10efa7923d1c36575bd3958edb50447",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题28.md",
+      "styleAttributes": {},
+      "x": 2550,
+      "y": 1620,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "1281e1c071ad7ddf18ef3e2b13572003",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.1 操作系统的基本概念/题13.md",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -260,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "334a79f428af2c130de993a587b05657",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题14.md",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 1620,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4753105b165ba033fb581698c87972c8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题20.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": 2170,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "9df0c444b22eef2da33f902dd4e5ca88",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.3 操作系统的运行环境/题18.md",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 1620,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "e73de3ea5c1573c8bafa35f3d8cf04d1",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.6 虚拟机/题4.md",
+      "styleAttributes": {},
+      "x": -770,
+      "y": 3700,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "9099abcad9755e69c7b8e148ebf61412",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.6 虚拟机/题9.md",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 3700,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "109dcf38e9490936685b2a625f27ad72",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.6 虚拟机/题2.md",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 3700,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b65a586ba102b2913d703c084e72ea9b",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.6 虚拟机/题19.md",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 4250,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "18bb4da991809c4da1dcc76dbb8ad02c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.6 虚拟机/题20.md",
+      "styleAttributes": {},
+      "x": 2690,
+      "y": 3750,
+      "width": 600,
+      "height": 500,
+      "color": "1"
+    },
+    {
+      "id": "7a11c3cf71372de72459938b3acdb1be",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 1 章 计算机系统概述/1.6 虚拟机/题15.md",
+      "styleAttributes": {},
+      "x": 530,
+      "y": 3700,
+      "width": 600,
+      "height": 500
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

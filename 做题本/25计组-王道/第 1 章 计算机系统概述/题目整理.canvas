@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "88ac5a70bf29e414",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -80,
+      "y": -80,
+      "width": 3440,
+      "height": 3540,
+      "label": "做错了"
+    },
+    {
+      "id": "0391cb42e6b2dbbb6f21b13514c295e4",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题22.md",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 1740,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8d50cde8d823edae1ba85ea3566bcfca",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题10.md",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 840,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c25a0522e6cda63869fb64a826cf72c3",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题1.md",
+      "styleAttributes": {},
+      "x": -60,
+      "y": -60,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4e37533592d37e531ff019be625e4335",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题5.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": -60,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ec3b7a481060532bbca12dc6b0f7252d",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题31.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 2640,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e801e3fd945403a24503c0acca8476a4",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题30.md",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 2640,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "66117ae27119b9c0de797487b595fe04",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题29.md",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": 1740,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6f9ea2bd2d68b43c6706664c481fc7ec",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题23.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 1740,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "fc596f0acf9307653011960af2c277d8",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题11.md",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 840,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "3748b80d4f1af28499c27ac0e539f6f0",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题6.md",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": -60,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8e59f06594f564734a23cb3d2125aa33",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题20.md",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": 840,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "83bd1120c325c56e97af0326f73d1d05",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题8.md",
+      "styleAttributes": {},
+      "x": 2040,
+      "y": -60,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "508479f84b6c93c56c16c901056b50c2",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题9.md",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": -60,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4e0fe3e0c912fa0977a19ca645006b31",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题16.md",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": 840,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0bbf27043f76187554ab509030482c42",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题25.md",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": 1740,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "474f8fc71dafeec5c6a9a046c207545a",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.3 计算机的性能指标/题28.md",
+      "styleAttributes": {},
+      "x": 2040,
+      "y": 1740,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a3174aba433091299fa1335faf81d955",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 1 章 计算机系统概述/1.2 计算机系统层次结构/题18.md",
+      "styleAttributes": {},
+      "x": 2040,
+      "y": 840,
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

@@ -1,0 +1,357 @@
+{
+	"nodes":[
+		{
+			"id":"7f9f2b7d403f30e5",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-240,
+			"width":5960,
+			"height":3530,
+			"label":"IO"
+		},
+		{
+			"id":"4e5c8f99e0f6d989",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-20,
+			"y":-20,
+			"width":2590,
+			"height":3290,
+			"label":"计组第七章"
+		},
+		{
+			"id":"88871e58926858b6",
+			"type":"group",
+			"styleAttributes":{},
+			"x":3120,
+			"y":0,
+			"width":2590,
+			"height":1640,
+			"color":"1",
+			"label":"真题"
+		},
+		{
+			"id":"aca7408e66f136ca51e6eb8573058e04",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.1 IO 系统基本概念/题3.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":0,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"461d8c8e8678cd6641779bb06332e2c9",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题1.md",
+			"styleAttributes":{},
+			"x":650,
+			"y":0,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"d10d399baf6287b112ef330c9aff3a1f",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题12.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":550,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"50beb04610cd64b6c966539cbe8c9dd6",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题3.md",
+			"styleAttributes":{},
+			"x":650,
+			"y":550,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"b72b2dcff8e4c3ac95e0ef8a3684de45",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题4.md",
+			"styleAttributes":{},
+			"x":1300,
+			"y":0,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"ea4a4e309db09156d45eb622a0860a27",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题4.md",
+			"styleAttributes":{},
+			"x":1300,
+			"y":550,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"57ebb5d4f7294e5c865320bdadbdf097",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题10.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":1100,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"0ba5fca21680118b296ad9a2b132a120",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题11.md",
+			"styleAttributes":{},
+			"x":650,
+			"y":1100,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"7e5ee6c8213680d35d95d58fc804e630",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题28.md",
+			"styleAttributes":{},
+			"x":1300,
+			"y":2750,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"ada1e371fb82be5fc3aa7c0f97105d89",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题8.md",
+			"styleAttributes":{},
+			"x":1950,
+			"y":0,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"f1cc00c10a5e6b2c80072c5ac5524c23",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题6.md",
+			"styleAttributes":{},
+			"x":1950,
+			"y":550,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"1c6ff6a62d78d25c3e375251e2e18b65",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题5.md",
+			"styleAttributes":{},
+			"x":1300,
+			"y":1100,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"308195587f54bf591a439bdfbc023336",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题2.md",
+			"styleAttributes":{},
+			"x":1950,
+			"y":1100,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"6f47a1e4a16ab73b197991b4114271e1",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题14.md",
+			"styleAttributes":{},
+			"x":1300,
+			"y":1650,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"13a71637e73e2a4c2fd06aed8f2d84a4",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题22.md",
+			"styleAttributes":{},
+			"x":1300,
+			"y":2200,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"c5760cda8efbe41dafed360bd06e7fd6",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题16.md",
+			"styleAttributes":{},
+			"x":1950,
+			"y":1650,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"e39ff1865b20f10398a317c76d67b08a",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题23.md",
+			"styleAttributes":{},
+			"x":1950,
+			"y":2200,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"f1478c47364cfa5b6c1ebfd24bfbe8ce",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题12.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":1650,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"384b08b331ce91b88535747ea960f0e2",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题26.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":2750,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"e3f5d84e176569081cc4f8d8202a1f2e",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题27.md",
+			"styleAttributes":{},
+			"x":650,
+			"y":2750,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"7b305d1ef105886564eb7077b3884991",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题13.md",
+			"styleAttributes":{},
+			"x":650,
+			"y":1650,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"a9e9e0892b60b1707a9c08af61cb76da",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题18.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":2200,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"c1d881233bc3e3822f821451efbb7a24",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题19.md",
+			"styleAttributes":{},
+			"x":650,
+			"y":2200,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"39bfad2f5d855403354fad8b2d2a10a1",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.1 IO 系统基本概念/题4.md",
+			"styleAttributes":{},
+			"x":3140,
+			"y":20,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"a4c17e175afabb7ebf12483f4e3069ef",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题40.md",
+			"styleAttributes":{},
+			"x":3140,
+			"y":570,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"e85c4d83f08866f739fe3918b2b6da4c",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题51.md",
+			"styleAttributes":{},
+			"x":3140,
+			"y":1120,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"e820650d7bd310efd57179cca5b72482",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题16.md",
+			"styleAttributes":{},
+			"x":3790,
+			"y":20,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"497af00381e728982759d2af07fb904b",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题38.md",
+			"styleAttributes":{},
+			"x":5090,
+			"y":20,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"e374cc5b6cea46ee2b767b4cf6d76ac2",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题48.md",
+			"styleAttributes":{},
+			"x":5090,
+			"y":570,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"d0ce58cde2e5e8925c7991e5b173f28a",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题41.md",
+			"styleAttributes":{},
+			"x":3790,
+			"y":570,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"359c5e231892933e5ad48c4d2b2147ca",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.2 IO 接口/题17.md",
+			"styleAttributes":{},
+			"x":4440,
+			"y":20,
+			"width":600,
+			"height":500
+		},
+		{
+			"id":"8788ef4b2f306f1a1f3fc8d9b7c736aa",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 7 章 IO系统/7.3 IO 方式/题43.md",
+			"styleAttributes":{},
+			"x":4440,
+			"y":570,
+			"width":600,
+			"height":500
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

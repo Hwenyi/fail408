@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "169ade62db6fb9907b98ea3645d24d2b",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题2.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "80673755979c87c6cc6795f68a662a43",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题3.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ec12a45b6d5da563adba477824b85fa2",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题6.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4850ffb907845c8ebcd630c420a7fed8",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题6.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "76da0ca7d0d53ce77a58307e86448455",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题12.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4b98c7f77f649def94a25d4a0d469053",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题14.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a093acd50bff4e96bab2a9f76b8fba09",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题15.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9c8d08d97c8cd3e596d756620a9f9ff1",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题16.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "95d7123c53b2489eedb2c2e73eb65d91",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题18.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0f2bed097d7a87314212f4938588261f",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题18.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "81a1fe9ee705deca9d59b6807b76eb7c",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题19.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a30f8dc327199e3f3941535693aab5b6",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题19.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e69ca03011936d7dc8b902bacf7f2f64",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题20.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d49892827fda3d0ea5f1c63c8534db06",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题20.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ebbf5e6a76db3a511e0ab85fb20a96dd",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题21.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d901357fd72c2519640fbb515e1f31a0",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.1 计算机网络概述/题21.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5cd1e907d3d2723aaf058c13c196c378",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题22.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "95ff6814b7edc9bbe8085cd2c492cf14",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题23.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5d4ffd01bcc18070d61853016e167495",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题26.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "69b607d9b24f12e25c79e5ac55f3ad92",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题29.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "dd3df07939d21502f543ecdcb9296f07",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题31.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "affc8279504ca7cce5d47efb15673066",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题32.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "f3d6874970a4a4053e354fb43c1aa2e9",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题37.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "63709c039c3918c48ad0e50246a08576",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 1 章 计算机网络体系结构/1.2 计算机网络体系结构与参考模型/题39.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

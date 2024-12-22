@@ -1,0 +1,1 @@
+${y}^{\left( n\right) } = f\left( x\right)$型的微分方程

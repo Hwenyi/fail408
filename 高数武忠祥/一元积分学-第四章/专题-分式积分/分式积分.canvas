@@ -1,0 +1,354 @@
+{
+  "nodes": [
+    {
+      "id": "b4cabd0b1bd280db",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1800,
+      "y": 3120,
+      "width": 4080,
+      "height": 560,
+      "label": "分式的类型"
+    },
+    {
+      "id": "d1880a0062069c0c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 4660,
+      "width": 2320,
+      "height": 465,
+      "label": "待定系数的方法"
+    },
+    {
+      "id": "da481f2cb7d49340",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/部分分式积分法.md",
+      "styleAttributes": {},
+      "x": -160,
+      "y": -340,
+      "width": 775,
+      "height": 552
+    },
+    {
+      "id": "f6db7aefd7a7f276",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/第二步对真分式的分母进行因式分解-部分分式积分.md",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 1320,
+      "width": 775,
+      "height": 520
+    },
+    {
+      "id": "4b68e5f0796cfd50",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/第一步分离出真分式-部分分式积分.md",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 440,
+      "width": 775,
+      "height": 600
+    },
+    {
+      "id": "1af48f07a15fa1f5",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/第三步分解真分式-部分分式积分.md",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 2200,
+      "width": 775,
+      "height": 760
+    },
+    {
+      "id": "4bfac4ff2a02836a",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/分式的类型/第四种分式.md",
+      "styleAttributes": {},
+      "x": 1811,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4e431ca421a74af4",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/分式的类型/第一种分式.md",
+      "styleAttributes": {},
+      "x": -1700,
+      "y": 3180,
+      "width": 420,
+      "height": 400
+    },
+    {
+      "id": "5581fa6df0c60295",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/分式的类型/第二种分式.md",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1f693916c3059172",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/分式的类型/第三种分式.md",
+      "styleAttributes": {},
+      "x": 1151,
+      "y": 3180,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "282148442548ea62",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/分式的类型/最终分解规则.md",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 3180,
+      "width": 1135,
+      "height": 400
+    },
+    {
+      "id": "5d292b89eaec1f0c",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/第五步求各个部分分式的积分-部分分式积分.md",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 5400,
+      "width": 775,
+      "height": 480
+    },
+    {
+      "id": "6f0a738984467df2",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/第四步计算出分式的分子-部分分式积分.md",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 3960,
+      "width": 775,
+      "height": 383
+    },
+    {
+      "id": "bc095cdf0f62d248",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/待定系数的方法/代入法.md",
+      "styleAttributes": {},
+      "x": 68,
+      "y": 4705,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "63c13c7adba5b60b",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/待定系数的方法/掩盖法.md",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 4705,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "422025dec6814562",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/待定系数的方法/求导法.md",
+      "styleAttributes": {},
+      "x": 1080,
+      "y": 4705,
+      "width": 420,
+      "height": 400
+    },
+    {
+      "id": "3606bed13632f6a4",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/不同类型分式的积分/第二种分式积分.md",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 6240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0b212473de189da3",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/不同类型分式的积分/第四种分式积分.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 6240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d9bab506266e4418",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/不同类型分式的积分/第一种分式积分.md",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": 6240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "87d04b65d2dee658",
+      "type": "file",
+      "file": "大学数学/高数武忠祥/一元积分学-第四章/专题-分式积分/不同类型分式的积分/第三种分式积分.md",
+      "styleAttributes": {},
+      "x": 400,
+      "y": 6320,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "652553eb432c2b2c",
+      "fromNode": "da481f2cb7d49340",
+      "fromSide": "bottom",
+      "toNode": "4b68e5f0796cfd50",
+      "toSide": "top"
+    },
+    {
+      "id": "0b0183c8104ea586",
+      "fromNode": "4b68e5f0796cfd50",
+      "fromSide": "bottom",
+      "toNode": "f6db7aefd7a7f276",
+      "toSide": "top"
+    },
+    {
+      "id": "6a38f211b9ea22cc",
+      "fromNode": "f6db7aefd7a7f276",
+      "fromSide": "bottom",
+      "toNode": "1af48f07a15fa1f5",
+      "toSide": "top"
+    },
+    {
+      "id": "84cd27f6c6831160",
+      "fromNode": "1af48f07a15fa1f5",
+      "fromSide": "bottom",
+      "toNode": "4e431ca421a74af4",
+      "toSide": "top"
+    },
+    {
+      "id": "cd0fc677f6dcff08",
+      "fromNode": "1af48f07a15fa1f5",
+      "fromSide": "bottom",
+      "toNode": "5581fa6df0c60295",
+      "toSide": "top"
+    },
+    {
+      "id": "c173fe0d2721c94e",
+      "fromNode": "1af48f07a15fa1f5",
+      "fromSide": "bottom",
+      "toNode": "1f693916c3059172",
+      "toSide": "top"
+    },
+    {
+      "id": "01cbb607a15bc30c",
+      "fromNode": "1af48f07a15fa1f5",
+      "fromSide": "bottom",
+      "toNode": "4bfac4ff2a02836a",
+      "toSide": "top"
+    },
+    {
+      "id": "9ce1d8473d473143",
+      "fromNode": "1af48f07a15fa1f5",
+      "fromSide": "bottom",
+      "toNode": "282148442548ea62",
+      "toSide": "top"
+    },
+    {
+      "id": "24fde07c11b2dcce",
+      "fromNode": "b4cabd0b1bd280db",
+      "fromSide": "bottom",
+      "toNode": "6f0a738984467df2",
+      "toSide": "top"
+    },
+    {
+      "id": "55db77c0601f9151",
+      "fromNode": "6f0a738984467df2",
+      "fromSide": "bottom",
+      "toNode": "63c13c7adba5b60b",
+      "toSide": "top"
+    },
+    {
+      "id": "0bd327f62ee0769d",
+      "fromNode": "6f0a738984467df2",
+      "fromSide": "bottom",
+      "toNode": "bc095cdf0f62d248",
+      "toSide": "top"
+    },
+    {
+      "id": "56209bd748801c7f",
+      "fromNode": "6f0a738984467df2",
+      "fromSide": "bottom",
+      "toNode": "422025dec6814562",
+      "toSide": "top"
+    },
+    {
+      "id": "e9568a306112e7d6",
+      "fromNode": "d1880a0062069c0c",
+      "fromSide": "bottom",
+      "toNode": "5d292b89eaec1f0c",
+      "toSide": "top"
+    },
+    {
+      "id": "5aeef81d2260d983",
+      "fromNode": "5d292b89eaec1f0c",
+      "fromSide": "bottom",
+      "toNode": "d9bab506266e4418",
+      "toSide": "top"
+    },
+    {
+      "id": "aed6805a6a3c1457",
+      "fromNode": "5d292b89eaec1f0c",
+      "fromSide": "bottom",
+      "toNode": "3606bed13632f6a4",
+      "toSide": "top"
+    },
+    {
+      "id": "f89085d8d80d86af",
+      "fromNode": "5d292b89eaec1f0c",
+      "fromSide": "bottom",
+      "toNode": "87d04b65d2dee658",
+      "toSide": "top"
+    },
+    {
+      "id": "5db5b3946a85eee7",
+      "fromNode": "5d292b89eaec1f0c",
+      "fromSide": "bottom",
+      "toNode": "0b212473de189da3",
+      "toSide": "top"
+    },
+    {
+      "id": "c71e212c2d187391",
+      "fromNode": "4e431ca421a74af4",
+      "fromSide": "bottom",
+      "toNode": "d9bab506266e4418",
+      "toSide": "top"
+    },
+    {
+      "id": "3a8b7272a8f5b3e0",
+      "fromNode": "5581fa6df0c60295",
+      "fromSide": "bottom",
+      "toNode": "3606bed13632f6a4",
+      "toSide": "top"
+    },
+    {
+      "id": "b2cf0d3e8eadd8dc",
+      "fromNode": "1f693916c3059172",
+      "fromSide": "bottom",
+      "toNode": "87d04b65d2dee658",
+      "toSide": "top"
+    },
+    {
+      "id": "62443ed14b481ad3",
+      "fromNode": "4bfac4ff2a02836a",
+      "fromSide": "bottom",
+      "toNode": "0b212473de189da3",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,168 @@
+{
+  "nodes": [
+    {
+      "id": "2e36416d7b2d2e04",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": -1600,
+      "width": 3440,
+      "height": 2640,
+      "label": "2.4死锁做错了"
+    },
+    {
+      "id": "4deabfdd3fe40a174b9144e34d1d8a67",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题2.md",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": -1580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "639e0d30383dd27ff9ad66a1b14e7f22",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题6.md",
+      "styleAttributes": {},
+      "x": -720,
+      "y": -1580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "3a19ed207c8bbbbf65f784a6bef076e4",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题7.md",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -1580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1dfea9fa3438ee9c60cf0fb939702312",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题14.md",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -680,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "37c9424225f483d9a0587ad1a0deb6f3",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题10.md",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": -680,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "139a38af969d6db5caf7d8cf029130e8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题12.md",
+      "styleAttributes": {},
+      "x": -720,
+      "y": -680,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "08b625f1547758562d081889bc9ac8b8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题23.md",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 220,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "972c16fc7cfd87f5c0a5cde99a13858c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题8.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -1580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "eaf143d45f8f96b434c6aa625dc4d93c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题9.md",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": -1580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "caf23a8f57931bcd771970326b3e3d3e",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题28.md",
+      "styleAttributes": {},
+      "x": -20,
+      "y": 220,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "36436643989ade83ee326dc42cae3119",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题25.md",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 220,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "124bcbad0562d0e6ab1a101c307e2fa8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题17.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -680,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0c93b58d2dd44f2a1d3693ad00862400",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题21.md",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": -680,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a1317c6a0693ebdbc9688a86e82a7e29",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题42.md",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": 220,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "a1b685b12f8fe508be70f10c61bb993d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 2 章 进程与线程/2.4 死锁/题37.md",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 220,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

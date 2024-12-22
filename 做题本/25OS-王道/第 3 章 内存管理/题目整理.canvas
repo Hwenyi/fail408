@@ -1,0 +1,536 @@
+{
+  "nodes": [
+    {
+      "id": "8b4ae88e2b904022",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 10060,
+      "y": -340,
+      "width": 3440,
+      "height": 9840,
+      "label": "存储"
+    },
+    {
+      "id": "f22004e77e3a6795",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 2260,
+      "width": 3440,
+      "height": 1740,
+      "label": "程序装入"
+    },
+    {
+      "id": "d9c57f8a87ff1eecf508f7b5613bcc9c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题11.md",
+      "styleAttributes": {},
+      "x": 3040,
+      "y": 2280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "66de4a3d44b37598f555417d3edd73e4",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题62.md",
+      "styleAttributes": {},
+      "x": 3040,
+      "y": 3180,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0a280a885ffe9ffc16f640a3fee3d2f2",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题20.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 1480,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "537a1df02998bc78e720ed827053d394",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题44.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 4180,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "bb0abf4f4accd53a47a837edad2cd68c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题58.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 6880,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "26a27480d8d91ad842100045de36c9b8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题59.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 6880,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6e7c7f83a72cddc45bd612bde0c2a1be",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题50.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 5080,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "47acf784aef07a383b6e316cfa5a1108",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题54.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 5980,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "140b731d27ecf60a20368d7de806baab",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题32.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 3280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "cc4c55cba3856e4ed07f17051b17a1b1",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题45.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 4180,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ead480017f12ab5d13839fbbc6825d3d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题23.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 1480,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4a1334d6cdc674edbd56845ff7d53528",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题55.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 5980,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1323318ed17467c42534dbad67494801",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题25.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 2380,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1ffca245828f855c61e55376bc4d6dfc",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题51.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 5080,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1134cbc9fb1422e073f800ab808b9f3d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题34.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 3280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0b43e227222bb0f78da794ba4ab60145",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题46.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 4180,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "42d6fbedae20414d57f32e6bac44a2bc",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题24.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 1480,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "13fd7a6258f59517873c2ac306163209",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题15.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5f34ccedcf4d289fce15984f1f4b8521",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题16.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "bebbf88a2b11a32247035433f46f6880",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题30.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 2380,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "331418525ed5781ddd7c8e03b0a178f6",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题70.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 7780,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ff49dc2f30750cf57faf5ce00aeda508",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题56.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": 5980,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "3fecf176e83ca88d83869c836f7254ef",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题28.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 2380,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9e00f23849c2b2f8bd2c8c358a3b01df",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题30.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 3280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "437a2181a773a17bad560e5fc78971ae",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题31.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 3280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "2d85fecc0e9bca7bccd26baf7596c9ee",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题41.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 4180,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0abc0336c5eb905b0a9a90ec574aa08d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题42.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 4180,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "07bdb00823e2c8f57c2e5654aeb2c8e7",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题52.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 5980,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a748406a38199aae588a8ad31d133c44",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题53.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 5980,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "63b1128d3974a3c7bc3970cff088c41c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题32.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 3280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "eee536f3400f70c3a077e2ab4ccfce99",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题46.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 5080,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "2229c11d0d81c6f385d8568005f69e93",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题47.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 5080,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1b271d637214f9776adbd32f40689000",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题12.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 580,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "155c88110ed5fa050f735c568fa7c5b6",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题19.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 1480,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8727030c810b0563e8fc806d296121d0",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题18.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 1480,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "006e876c91cabd793a842f255b289e3d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题56.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 6880,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ffc401f6236695be806b6b005d723f74",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题57.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 6880,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8e989bf373c994e094b2325692d423ff",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题63.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 7780,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c5e63f458ddbd3d03fde17ae7f6c8ba8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题64.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": 7780,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8066d89aa0bfad12bb0f464e5757b42e",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题7.md",
+      "styleAttributes": {},
+      "x": 10780,
+      "y": -320,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "bb3ee8c50e72202e1fb4031e285a76d9",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题8.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": -320,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ed89541ba5bb14b2ed9b050f43400e4b",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题71.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 8680,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ece937fe5295b850e6c47fb0ed64a42f",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题67.md",
+      "styleAttributes": {},
+      "x": 11480,
+      "y": 7780,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "42bfcea514386da0bd3ce19597c44a28",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题68.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": 7780,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9fc4dfcd0fc29747b6a30e45909f43d2",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题12.md",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 2280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "41d7ed33abc014cf92ae01bbcd9c1580",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题24.md",
+      "styleAttributes": {},
+      "x": 4440,
+      "y": 2280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1a7857d9246571a1d9451efe609973f7",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题9.md",
+      "styleAttributes": {},
+      "x": 12180,
+      "y": -320,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ac741b728fcb782a9b25f70ebcbe0322",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题11.md",
+      "styleAttributes": {},
+      "x": 12880,
+      "y": -320,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "caed7eebdec349eaf6179a5e92663498",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题3.md",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": -320,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "01ecd640b31c63df2e0405f2eb8f942e",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.1 内存管理概念/题49.md",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 2280,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "3ee83b2f196cd8e20382901650a7ae7f",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 3 章 内存管理/3.2 虚拟内存管理/题29.md",
+      "styleAttributes": {},
+      "x": 5140,
+      "y": 2280,
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

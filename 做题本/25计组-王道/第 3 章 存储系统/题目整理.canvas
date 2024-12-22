@@ -1,0 +1,609 @@
+{
+  "nodes": [
+    {
+      "id": "446263aef649c474",
+      "type": "group",
+      "styleAttributes": {
+        "border": null
+      },
+      "x": -2240,
+      "y": 3360,
+      "width": 2590,
+      "height": 2190,
+      "color": "1",
+      "label": "真题"
+    },
+    {
+      "id": "7032cd09c06a931450507814f2f5ff36",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题4.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 1350,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "f9b48a35ff2b87798fdb851f12704c97",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题6.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 1350,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "351b95b3d955384dc676a4540d710a91",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题23.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 1900,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "35ffb0b7ce182a48bfd10bf6ea44f8f6",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题21.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 1900,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "97fad1714c5bc143757a16ed12c62162",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题24.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 1900,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "d572f06ea6c47add",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题31.md",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 3380,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b205b4259c3022fc",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.4 外部存储器/题11.md",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 3930,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "d213e69b2b4afe79",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题32.md",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 4480,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "226f012c717425f0",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题17.md",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 5030,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "87ee2c89289fff65c348afe696db5ac8",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题25.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 1900,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "03adb3c09b8e0d31a11f9dc7b52acf30",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题7.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 1350,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "375b40c136e2a06dd1416f5584dbc845",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题22.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 1350,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4b072e8a36e774107fe576409b9cad68",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.1 存储器概述/题6.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 250,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "d25d323f0916008c4b88c974344f4814",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题1.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 250,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b3d217c95e684f83cebdccdee3910563",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题16.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 800,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "07c8551bf339646db7f8d0631d2532c4",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题20.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 800,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "1c394edd8997c2dfac30f0a89a4fb580",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.1 存储器概述/题2.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 250,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "e222b6e0cc1d86bc57b7a204b6c9ef26",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.1 存储器概述/题13.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 250,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2999f2d82627b2788a63967e85e6ca3f",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题15.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 800,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "7a4828f36edc5d7c40696f049185f40a",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题10.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 2450,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4731cf80ce121562fd7853e6cc0d3cb1",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题2.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 2450,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "133201e43486b5ff07c0a368aeb99ef5",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题6.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 3550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "c5c7767d3b685a92a4720dd917c9339f",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.4 外部存储器/题8.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 3000,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "8fbe298d9bb695f422d2e664556ee3ba",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题8.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 3550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "7206472178b8726c80364244ac5bb099",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.4 外部存储器/题2.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 3000,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "a800dc7afe33d200a85d423919034f97",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题18.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 800,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "a8429b0ea4a119c5b88b078ae86da078",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题12.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 4100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2a843982a867334ba78c55fee39bcdac",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题14.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 4100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ea4380988534262c0867ff199d122250",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题19.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 4650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b7c245cb9170d38c839d3cfd66de9852",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题22.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 5200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "cb380d200010c806bf0e49b7860a1713",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题5.md",
+      "styleAttributes": {},
+      "x": 2370,
+      "y": 5750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "528102a8ed572b9160f950536a029f51",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题23.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 5200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ed9af882f99c9f969ca34444822a945c",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题9.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 5750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "e0eb39bedf84106ca7373ce29bb0ebd5",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题3.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 5750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "f9bed1ca2f1389b485cdbae0ffa72c8f",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题12.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 6300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "607e6e3ead2e3d4bb2d38754358abc27",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题24.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 5750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "454e7b9d5091a1db0b2d1b911a43a701",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题11.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 6300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "9e9d727a962419dacf56ad256e7cd3fb",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题21.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 5200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "c7f6f14c14be0b6b6bc8c1d522b60ff5",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题9.md",
+      "styleAttributes": {},
+      "x": 3020,
+      "y": 4650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "11f32b6912b2ddba02690ca0c7013925",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题26.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 2450,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "198e16ed1a1587b44d5baa13272ffa01",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题11.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 2450,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "cd78673a4b28d9b4c33f8359c9be5f0d",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题6.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 3000,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "dc69d1532185cacacef91ebdcdb41e9b",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题7.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 3000,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "6a756da2a781de47680fe7edced464ed",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题4.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 3550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "9bd4237fa27396ab5a6a188530b217aa",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题2.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 3550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "711b456f2bfab2dfcf3cbbe4991be39f",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题20.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 5200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "81fe03e941386b5fef78d0c50291749e",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题17.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 4650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "64d28f465b0707de5f55e7367f075f26",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题13.md",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 4100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2045b4a760398bb67496886d9286d9f0",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题10.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 4100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "6bc7692c9c52cab8",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题15.md",
+      "styleAttributes": {},
+      "x": -1570,
+      "y": 3930,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "1937f2592f932915",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.3 主存储器与cpu的连接/题13.md",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3380,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "a5535d28d82f9d32",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题30.md",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3930,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ed270129dc031462981854d3e426c106",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题16.md",
+      "styleAttributes": {},
+      "x": 1070,
+      "y": 4650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "122b7976b4d0c9fc",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题33.md",
+      "styleAttributes": {},
+      "x": -1570,
+      "y": 4480,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b6b81a66778b29f9",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题16.md",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 4480,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "cf5670da2b0bfe4a",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题34.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": 3380,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "5488f226ba8bbf6a",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.5 高速缓冲存储器/题29.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": 3930,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "a0ea9635c2334dd6",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.2 主存储器/题32.md",
+      "styleAttributes": {},
+      "x": -1570,
+      "y": 3380,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "737f96846dc123f4",
+      "type": "file",
+      "file": "刷题/25计组-王道/第 3 章 存储系统/3.6 虚拟存储器/题14.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": 4480,
+      "width": 600,
+      "height": 500
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

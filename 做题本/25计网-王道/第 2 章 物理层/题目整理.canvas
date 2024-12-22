@@ -1,0 +1,296 @@
+{
+  "nodes": [
+    {
+      "id": "4d4df0bf9d84aee4bc97644b93992222",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.3 物理层设备/题2.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "f59fad9ff97804f756042293cfab8437",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.2 传输介质/题2.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "539787434e4249332f618ea95e0035ea",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题2.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "cbff86df850f6daf7feae39011add805",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.3 物理层设备/题3.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "edeaefb2d2931f4cd4d1dfc4d4216929",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.3 物理层设备/题4.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ad4d168b4019c47f85fc28c53a83ed59",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.2 传输介质/题4.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "43500f1f69d597aad682099e489637ad",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题5.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "683c5ae247964ea5b224afd18b53660a",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.3 物理层设备/题6.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "579b8b295ed200e4cf2f7def430a6932",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题8.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "deeb837674c46892994b077786690a68",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.3 物理层设备/题9.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0b83bc6ed0dec3dfa0a50e47176557bc",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.2 传输介质/题9.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "712a8a28b9bfca7ad40010aeaef6740b",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题9.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e21fb6adb826936184d46fd72f5e01fe",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.3 物理层设备/题10.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4f33f69b7a72452b3e8ed3292ee0974f",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题10.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "10d9cac4ac243a3e98437fdbe123c397",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.2 传输介质/题12.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "66191efb0958e22b182c5684533ad1fa",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题12.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c7368b3f4e3008a7855266d762baee5c",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题14.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "53d08d790b0e5cea8192c11813e64d89",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题15.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1f7a4b7386f0e78f084a13a4b8eaf89c",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题16.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8e3a7cf6247f77613dae224a34af3283",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题18.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "2ff5e56e4333f1f610a44e5b044d985c",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题19.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "726acae92b7dfb5dd3604963f2f562ff",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题20.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "69f92c71f0c9c5e4beca1c0d4d116666",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题21.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a0dff03f732045230b33149650749f35",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题22.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "63649c627e66dc7e552921ddad2e0114",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题25.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c0beb8bab97907880925e0ecbc5c6673",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题26.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "da54d73f7f444d0c07cdf9b5d6dd6a20",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题27.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "7b3e64fa241c2f873da4c97e90847a0f",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题29.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a47e8e09c88216ab0ef9285d3c632af0",
+      "type": "file",
+      "file": "刷题/25计网-王道/第 2 章 物理层/2.1 通信基础/题31.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

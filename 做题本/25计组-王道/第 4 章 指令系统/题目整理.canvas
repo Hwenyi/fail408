@@ -1,0 +1,276 @@
+{
+	"nodes":[
+		{
+			"id":"210bfad944a13730b4830b461974aff0",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题2.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":0,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"aa961eea4508bf0e79bd6ff42132e168",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题2.md",
+			"styleAttributes":{},
+			"x":700,
+			"y":0,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"035b83e37e4fa401e0c1061d39a9fa75",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题3.md",
+			"styleAttributes":{},
+			"x":1400,
+			"y":0,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"05c09afa3c0e2df8f11b032454592ed7",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题3.md",
+			"styleAttributes":{},
+			"x":2100,
+			"y":0,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"9ee1319fc6fca69cc5c3dbe5d8c23144",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.4 CISC和RISC的基本概念/题4.md",
+			"styleAttributes":{},
+			"x":2800,
+			"y":0,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"c29c615c90ae69fa49d6707846351846",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题4.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":900,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"8df2f8a7edf19544fe3f0dd6e9afc7ab",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.4 CISC和RISC的基本概念/题5.md",
+			"styleAttributes":{},
+			"x":700,
+			"y":900,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"791c486e7afb5b7ab041714c36f5fe60",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.3 程序的机器级代码表示/题5.md",
+			"styleAttributes":{},
+			"x":1400,
+			"y":900,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"4af1326d38e9f4a2e8d4a7a8a0f498ad",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题5.md",
+			"styleAttributes":{},
+			"x":2100,
+			"y":900,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"783690ea6d12da8b7df0264b69f22f77",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.3 程序的机器级代码表示/题6.md",
+			"styleAttributes":{},
+			"x":2800,
+			"y":900,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"f8c377254a69decc9dfa35f1cc2af519",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题8.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":1800,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"d3a4302233f8b099c3cd36b0ffebd1b5",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题9.md",
+			"styleAttributes":{},
+			"x":700,
+			"y":1800,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"b976a497038a5f75496fb68653bc9b89",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题10.md",
+			"styleAttributes":{},
+			"x":1400,
+			"y":1800,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"067642dcadbdc95b2064bade0dc291f1",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题10.md",
+			"styleAttributes":{},
+			"x":2100,
+			"y":1800,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"e41bd0b81c1da7fa1e1810b86c182eac",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题12.md",
+			"styleAttributes":{},
+			"x":2800,
+			"y":1800,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"d07db752068b7ab8c01b0d32816ce4ce",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题12.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":2700,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"0ef5f6bf85755b625623204f3f6fc80d",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题14.md",
+			"styleAttributes":{},
+			"x":700,
+			"y":2700,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"97179485fde42b1874adf5e33ecdace5",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.1 指令系统/题15.md",
+			"styleAttributes":{},
+			"x":1400,
+			"y":2700,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"2bfb42297d73207b1fb5af34af9d8d2e",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题16.md",
+			"styleAttributes":{},
+			"x":2100,
+			"y":2700,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"7e414d09ffb49077f7c695ba144f9533",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题17.md",
+			"styleAttributes":{},
+			"x":2800,
+			"y":2700,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"df14a1e8ba8535d00b78c49b951ee5ca",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题21.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":3600,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"5e9ab092575bc1de0eb4dd06ff2cbf5d",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题22.md",
+			"styleAttributes":{},
+			"x":700,
+			"y":3600,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"9f90eb17e746f559a211f2bac28a99d5",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题23.md",
+			"styleAttributes":{},
+			"x":1400,
+			"y":3600,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"7c76f7e11b7f817f95f9d5efbd0637c1",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题24.md",
+			"styleAttributes":{},
+			"x":2100,
+			"y":3600,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"c5991ccea88fbe196aecda2f0204109c",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题28.md",
+			"styleAttributes":{},
+			"x":2800,
+			"y":3600,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"4cf95d57d0ca8d8d8a1234533f750d9c",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题31.md",
+			"styleAttributes":{},
+			"x":0,
+			"y":4500,
+			"width":600,
+			"height":800
+		},
+		{
+			"id":"534e735044698cb9d022ddc502fc1664",
+			"type":"file",
+			"file":"刷题/25计组-王道/第 4 章 指令系统/4.2 指令的寻址方式/题32.md",
+			"styleAttributes":{},
+			"x":700,
+			"y":4500,
+			"width":600,
+			"height":800
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

@@ -1,0 +1,397 @@
+{
+  "nodes": [
+    {
+      "id": "e62cb97007cbef0a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -20,
+      "width": 2590,
+      "height": 4390,
+      "label": "未命名组"
+    },
+    {
+      "id": "b6e8db9a086d0d13",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3200,
+      "y": 0,
+      "width": 2590,
+      "height": 1090,
+      "color": "1",
+      "label": "真题"
+    },
+    {
+      "id": "9d50552d9b247b7d2fa9b9677b1908e5",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题11.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "8879d1fde52570f8461ecae1e0197157",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题3.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "291de3818bc4a5200584f3f1fc8e6bfb",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题9.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "8303a27470ff27f2afd870a5dcfdc16d",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题14.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "421945c1d56b6f9d774fdb30fdc120df",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题22.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "dabbc290086204b79518c233ceeff826",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题9.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "453b10d11f6e27b9144d769342a6cbbe",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题23.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "d2a2e996c6c07bc9e21cd99a3fc55f0c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题14.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3850,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "8fe8bd3325b74592e84c525537f9ca28",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题3.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "e693d77552e7ed37e5ce4e3f7a62daea",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题16.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "64172afed8cd5ef4f94ebd03dfa438bb",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题5.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "e6f905ed0ec6b035ce696c5071988536",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题24.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "cb89b5115183a6357a39904cf5ac86e3",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题21.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "14b5398270dbb7905e5c160254821914",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题16.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "40081d2771055ed637d6bfd2bddc80f8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题22.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "6a3f914b43a1c7f9140a0bf11b404d54",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题20.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "f230e273cf54e9eca64c1d27674a75a2",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题17.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "1ff54e35f580b2e9128565113a510b6a",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题3.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "cad580ae0cfe2155e599d76a281bc415",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题8.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "af8bce4ace1091b2fe219803b90fb387",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题2.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "72d4ab114049fa4ce704b554857cc72b",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题21.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "6c3b7ee71f351ed0b431f72658a72ba2",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题6.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "08b6b13f71263c2e8042acfdd4cde81c",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题18.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4b897494a1920f463bbaf194f433c8d9",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题34.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "d563d0ccc10e2e8b252d20bdedd8f635",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题1.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "3159ce280d05329b1e7e7210b01391c5",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题25.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2a1c91ff75aaa1518afd4f27668efccc",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题16.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "45b00a0dd75d6cbedb053a72f33965b8",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题27.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "06174a608ec435c1946b81b3d598c933",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题33.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b157b64b53fd019e120accabb9863103",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题23.md",
+      "styleAttributes": {},
+      "x": 3220,
+      "y": 20,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "8ba82919bff9e21a7520459d4ebc9d21",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题36.md",
+      "styleAttributes": {},
+      "x": 3220,
+      "y": 570,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "5248541f73080ea5ada963ef47986cea",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.1 IO 管理概述/题22.md",
+      "styleAttributes": {},
+      "x": 3870,
+      "y": 20,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "1a9d5d07cfe810a21a655aef51b341f2",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题37.md",
+      "styleAttributes": {},
+      "x": 3870,
+      "y": 570,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "d75f7f85ad0969ca3451054a6f9593d9",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题29.md",
+      "styleAttributes": {},
+      "x": 4520,
+      "y": 20,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2d5cff0cd18f13fc9ab99a01df8438ac",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题40.md",
+      "styleAttributes": {},
+      "x": 4520,
+      "y": 570,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "fa63345922080cc9f6e2da8f15491c44",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.3 磁盘和固态硬盘/题31.md",
+      "styleAttributes": {},
+      "x": 5170,
+      "y": 20,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "0023a820b4758c39bb1b841e5138a599",
+      "type": "file",
+      "file": "刷题/25OS-王道/第 5 章 IO 管理/5.2 设备独立性软件/题42.md",
+      "styleAttributes": {},
+      "x": 5170,
+      "y": 570,
+      "width": 600,
+      "height": 500
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
