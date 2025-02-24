@@ -1,0 +1,609 @@
+{
+  "nodes": [
+    {
+      "id": "e802b405469ae284064545560f4e6546",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.1.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "edaeb2928a19f2e24129f66bbb167010",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.2.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "db83bece83a8900e2cc017f3c903e9a3",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.3.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ffbd65bd4af2464adbe5d45dbbb82d9e",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.4.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a30f2cdefbe97584ad88aec4195d1cf3",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.5.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "9d43f15b23b580e0ba434ff8d1a4c197",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.6.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "dc3919f431d83a1928aacfb402721b2c",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.7.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 900,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "6159a1ff017e6a247490855af749e5f8",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.8.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1800,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "da233093daead2a70cd84ba0226c26d4",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.9.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "689410fc886dd14262e147ca0bd772ec",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.10.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "b6478df4070180c53d210c291fdfd6bf",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.11.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0d8912e41de5a056d861c8630221a3bd",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.12.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "109aec9f67d69af718c270be305b4f01",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.13.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "39936507c3efcba8dc3e6a3f6006dcc3",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.14.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "058d09b6d1d4fd64905cc98f2867fa4f",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.15.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 2700,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "a41f1e5d09a890c5d13ffb162dc3da61",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.16.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0ad961cb7f932cfc4de9f3f8923159eb",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.17.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "497effe66f1cccc633e4fe0ea479983e",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.18.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1e798b931876b628ef9263d7ee2ce4c5",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.19.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "3ca134f80d22c95ce8915021c42b7541",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.20.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "fd8842cc9f8a5040dfa56b944f7328e8",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.21.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "2b7d0754eede44d8c7bbfeca61239810",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.22.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6a65290614f2e7c06b91a64e6c1098ab",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.23.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5b271d34835f234fd6bfc36de51a76e4",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.24.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 5400,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d1f1ad5615dc4c39c5d057584df0a26f",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.27.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 5400,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1ed47ce322adda06be85427beba5d236",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.28.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 5400,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "65e0ace5f48736a242e192713def9f2f",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.29.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 5400,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "27e4e0e3ab9a65f4b5d94ae9fba08881",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.30.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 6300,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "73a1278e1934d1afe0ce4af36eef5594",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.31.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 6300,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ade6f0389eaae12eca5f1e9873ab3724",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.32.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 6300,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "303ed15fdc5f4dd860abcd0b18c70bb2",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.33.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 6300,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "b3959f92159bc54b822866fdcb4d1979",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.35.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 7200,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e7673bb1f8b55236a60ea38f5b3eddc9",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.36.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 7200,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "fd06becfae6b6edbd7a1e4802b119a90",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.37.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 7200,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "7fe6955f887b09008ad2ee810c3b3b43",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.38.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 7200,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "59c50e44751dc6a79819a375e40fa13b",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.39.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 8100,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "06733ecfa52fd94d038161498ccd48bf",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.40.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 8100,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "dd27d5134f682fa5a9f817a1884bd482",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.41.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 8100,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "7f2eff617ba1b958a28913609604905b",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.42.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 8100,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "43797c04d23b5951630169bdd06bdf36",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.43.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 9000,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "74fa4754681f00f5120e9b7c24dcd6a5",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.44.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 9000,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8da4667efa97458a276eeeeed5c37693",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.45.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 9000,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5a29ebf8d54f714e5a7e6c41fdbbfd9e",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.46.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 9000,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c84884606677ad024c2a566ee8f461fc",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.47.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 9900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1fa13993beef28d7e7821e438534dc88",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.48.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 9900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "ec15120dc9cd5b520aa072e903e55ba6",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.49.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 9900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "51be163f566465203e80554b51cef63d",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.50.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 9900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "985e656c4753f2fac0caac28715148a0",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.51.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 10800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1b8d8ab927c619ca852031a90558c4e6",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.52.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 10800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "46d5dde8f1e5ea9221a2ab0de321ea32",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.53.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 10800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "bd9b122a02649f573b4126d6b9665a89",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.54.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 10800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e972024a69460c8249dd501b99911ebd",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.55.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 11700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0f8f99ec412a3f942475d315fc87c813",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.56.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 11700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "14caaa3e9445f4371c65653cf5f3a5e2",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.57.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 11700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "e5d6c5d1af54dc3e588017726ab0bfb7",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.58.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 11700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "6c1e4346cd9b07569d7af9c752fa0f8f",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.59.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 12600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "55fa751e53a321091674bc3b4d7291b8",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.60.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 12600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d19fdb48c2821a262a5484667e9e95e8",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.61.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 12600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "28731aeb18f24d702b81e0d6492769ef",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.62.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 12600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "8596a88a4934be814e28661a719d9883",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第13讲多元函数微分学/例13.34.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 13500,
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

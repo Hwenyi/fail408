@@ -1,0 +1,333 @@
+{
+  "nodes": [
+    {
+      "id": "ad3e91f71c1c988657df5b3cf8f69876",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/一、 Xn收敛于a的速度问题/例2.1.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 0,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "429f4dd35ff8ef04ee7abc13fcef6599",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/一、 Xn收敛于a的速度问题/例2.2.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 0,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "4e729d6d3ca0da81a6f53e0ff5b7c229",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/一、 Xn收敛于a的速度问题/例2.3.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 0,
+      "width": 600,
+      "height": 800,
+      "color": "2"
+    },
+    {
+      "id": "46e9672d167487f830a63d2a0fd604d0",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.4.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "cd7e0370b3cb25b145770fdf2fce39cc",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.5.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "87e08dd8a7972e4a198176c848e7d73f",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.6.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "a402b06442d447c81b78f5f3dd2b5276",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.7.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "f193fd66cb5a8cdc66c3e97ecfa80d38",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.8.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "cdcb841538e982be0b0487334aad9991",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.9.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "96d65d9b38f09d09c994c08f90a49f53",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.10.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "cde5b589846f423c7d12ba799418eb23",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.11.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "63baed3c9b6fa1173aaf75ea447f71c7",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.12.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "61b3912892f87e18bad851af9797af18",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.13.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4cbf407c95e149d160318426b4739ff7",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.14.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2700,
+      "width": 600,
+      "height": 800,
+      "color": "3"
+    },
+    {
+      "id": "5d4a5e235385ab2f6d610b70ec073527",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/二、见到f(Xn,Xn+1),且其是含等式关系/例2.15.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "0bf390416657da942e030bc88594af29",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/三、见到f(Xn,Xn+1),且其是含Xn,Xn+1的不等式关系/例2.16.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "72084132030b39ce0183f69f25678d61",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/三、见到f(Xn,Xn+1),且其是含Xn,Xn+1的不等式关系/例2.17.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "10395ce7d3c74e07b4dd2dc8fb333d2d",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/四、初值x1对Xn+1=f(Xn)的敛散性影响/例2.18.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 2700,
+      "width": 600,
+      "height": 800,
+      "color": "2"
+    },
+    {
+      "id": "d859f5530bce1791c97ecfd2d77f692d",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.19.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "492a0c858876cf86f3b1b7e5b0cafe94",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.20.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 3600,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "64b56adffb7787be3251ec795b9c33ea",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.21.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "b34ede0c1e007a5659415a90b190a777",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.22.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "c84554ed653d2063da3f9b6b4cec1d61",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.23.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 3600,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "d851f63f426c4ce5257186d03d3c5103",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.24.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "3c1ed5bdb2cdb3915171e88e1fc85abc",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.25.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "1ef90f328dea7573938a99aafa6a64d2",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/五、双通项问题/例2.26.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "438de45b9e00995d21fcb925063a1138",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/六、数列方程f_n(x)=0的解Xn的极限问题/例2.27.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 4500,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "2e80799ecf99ea1248a68be12bb15e71",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/七、复合函数的极限/例2.28.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 4500,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "52cdb7b306b43b2d0490a1407c5d3bdb",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/七、复合函数的极限/例2.29.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 5400,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "91f39b14d7031954543c02526e54ed96",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 2 讲 数列极限/七、复合函数的极限/例2.30.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 5400,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    },
+    {
+      "id": "76d5d02ecfbd5280",
+      "type": "text",
+      "text": "[邂逅遗憾](https://www.bilibili.com/video/BV19m421g7KH?t=1431.2)\n极限和函数值的关系\n经典的反例\n极限和函数之间的反例往往来自于跳跃间断点，也就是各种离散的情况，毕竟函数也不一定非得是连续的，很多时候一些想当然的先入为主，都是来自于默认是连续的\n![](https://img.hwenyi.live/202409281648606.webp)\n",
+      "styleAttributes": {},
+      "x": 3640,
+      "y": 4280,
+      "width": 1080,
+      "height": 960
+    }
+  ],
+  "edges": [
+    {
+      "id": "dfd6390369cb722e",
+      "styleAttributes": {},
+      "fromNode": "76d5d02ecfbd5280",
+      "fromSide": "left",
+      "toNode": "2e80799ecf99ea1248a68be12bb15e71",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

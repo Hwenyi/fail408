@@ -1,0 +1,153 @@
+{
+  "nodes": [
+    {
+      "id": "7976cfd87ddcf302110e8d3fc592db3f",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/一、泰勒展开法/例4.1.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "47d117d486ac4ae9e8df9ecdecfdd584",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/一、泰勒展开法/例4.2.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 0,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "7d0108f6edf3bf4369ff79a47e8ad6fa",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/二、莱布尼茨公式法/例4.3.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5452e7185f7e18233d30afd9fc935684",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/二、莱布尼茨公式法/例4.4.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "5c624259fd3ca1b0ea28ff75b5303517",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/二、莱布尼茨公式法/例4.5.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 900,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "dadb775e0698cc059bd5ab54842bd947",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/三、求导转化法/例4.6.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 900,
+      "width": 600,
+      "height": 800,
+      "color": "2"
+    },
+    {
+      "id": "07363b8e45f1cc0230e2f53092366c4a",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/三、求导转化法/例4.7.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 900,
+      "width": 600,
+      "height": 800,
+      "color": "6"
+    },
+    {
+      "id": "cb68af26fa4c99461a958da75d3179ee",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/四、特殊点的高阶导数/例4.8.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1800,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "4286ee709f4526a4cd5fb3ca1eaf8aeb",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/四、特殊点的高阶导数/例4.9.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1800,
+      "width": 600,
+      "height": 800,
+      "color": "2"
+    },
+    {
+      "id": "8083df99ac65da60972d8ba8f1c14949",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/五、奇偶、周期函数的高阶导数/例4.10.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 1800,
+      "width": 600,
+      "height": 800,
+      "color": "2"
+    },
+    {
+      "id": "5de98c1f0599d5ac21e08c9cd13fb9bc",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/五、奇偶、周期函数的高阶导数/例4.11.md",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 1800,
+      "width": 600,
+      "height": 800,
+      "color": "2"
+    },
+    {
+      "id": "01753afddaf593f76a332ae5185348a8",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/六、隐函数的二阶导/例4.12.md",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 1800,
+      "width": 600,
+      "height": 800,
+      "color": "4"
+    },
+    {
+      "id": "d22cdb3747c5ec2c1da4b266386b21cb",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/七、参数方程的二阶导/例4.13.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2700,
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "043ddb506a77b1ac49a30f368b1c0137",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/八、反函数的二阶导/例4.14.md",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 2700,
+      "width": 600,
+      "height": 800,
+      "color": "1"
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

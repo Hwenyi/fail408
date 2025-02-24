@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "fa0f451ae33dd703",
+      "type": "text",
+      "text": "第3讲，第4讲，第5讲汇总",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -1360,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "69d56db614baffb6",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 4 讲一元函数微分学的计算/题目整理.canvas",
+      "styleAttributes": {},
+      "x": -80,
+      "y": -960,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0fdf1cc04e8ce086",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第5讲一元函数微分学的应用(一)几何应用/题目整理.canvas",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -960,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d9f6e1b563001ceb",
+      "type": "file",
+      "file": "刷题/张宇高数强化/第 3 讲一元函数微分学的概念/题目整理.canvas",
+      "styleAttributes": {},
+      "x": -560,
+      "y": -960,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "aaaa5495be27dd1a",
+      "styleAttributes": {},
+      "fromNode": "fa0f451ae33dd703",
+      "fromSide": "bottom",
+      "toNode": "69d56db614baffb6",
+      "toSide": "top",
+      "label": "第4讲"
+    },
+    {
+      "id": "1f0adc7eaee617e1",
+      "styleAttributes": {},
+      "fromNode": "fa0f451ae33dd703",
+      "fromSide": "bottom",
+      "toNode": "0fdf1cc04e8ce086",
+      "toSide": "top",
+      "label": "第5讲"
+    },
+    {
+      "id": "a444f51d9d9dd0ec",
+      "styleAttributes": {},
+      "fromNode": "fa0f451ae33dd703",
+      "fromSide": "bottom",
+      "toNode": "d9f6e1b563001ceb",
+      "toSide": "top",
+      "label": "第3讲"
+    }
+  ],
+  "metadata": {}
+}
