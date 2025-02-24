@@ -1,0 +1,456 @@
+{
+  "nodes": [
+    {
+      "id": "9e176984132634ed29165bec63430062",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第六章 二次型/习题部分/题6.11.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "0c7132a679df3dd4ce4225e4956c0605",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第六章 二次型/习题部分/题6.10.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "22d4e4772a641fc0dfecb878cb06ddea",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第六章 二次型/习题部分/题6.3.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "52c0ab1343d01e6ae1c6868e63e54fbd",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第六章 二次型/习题部分/题6.2.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 0,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "48eb6bc1198cbc34df93b3e5850864ca",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.14.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "cefc1f420f4fd65e3e825ee4965f2596",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.13.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "56dd4c3fbab494205623ae7678960361",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.8.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2300077e47b8eb2c8083b88da4244749",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.7.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 550,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4cac60bfe90a039b5681c333a4c2efed",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.6.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "86d7307b0b39a843a38e1771b32a2223",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.5.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "db4b12f46d1b87e2f080dbf2877c5a90",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.4.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "c911635b6d3c2408716c21f56a500488",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.3.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 1100,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "802f01447153af32c6a0aaee9c759db2",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.2.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "de898ce821d01ea90a3a6aa9ffe98afa",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第五章 特征值与特征向量/习题部分/题5.1.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4a4d100a37910be80c2e58a31c1e5444",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/习题部分/题4.8.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "f73f232580a0670bcc870b519b55d3ff",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/习题部分/题4.7.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 1650,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "c7ec39305393ff3186923f04120206e7",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/习题部分/题4.6.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "19fc98cff6bf12f221179ef6ddd2049a",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/习题部分/题4.5.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "c07625c7337801c763b0f91f910d3231",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/习题部分/题4.4.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "62e3bccc4a68a5feec7608b69037439f",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/习题部分/题4.2.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 2200,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "b3dd47ca0e0b1073c7f36bc1b89a3b25",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/例题部分/题4.7.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4e60da3398e48b3731d9840eb386bf68",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/例题部分/题4.6.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "bdcfd6b4f5ca0f5750032b87ca62ac88",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/例题部分/题4.4.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ed4d96d6997235dc5b76faf0abd0fcfe",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/例题部分/题4.3.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 2750,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "2a09d7f39d6c18e0da25742b11e41b1c",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第四章 线性方程组/例题部分/题4.1.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "7448236c31e0a5e2a565c4d47d701d96",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/习题部分/题3.12.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "84d53bf4ca0a2b7d7e0c9f263f70bb75",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/习题部分/题3.11.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "ab24891d0f1126efa579e55e601b47a7",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/习题部分/题3.10.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 3300,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "52ec153cec02462b5ca02b60d4c3a771",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/习题部分/题3.6.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 3850,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "4814bf884a5cba1eee4345188209d376",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/习题部分/题3.2.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 3850,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "566bd83b27a36dd2eac65b4f12a0b862",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/习题部分/题3.1.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 3850,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "a43855e4d0c605129231c6480b3c1e38",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.12.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 3850,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "12b4127bebc8a3bebfbd38b58772c0ff",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.10.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 4400,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "629ea2b7a6ea26d5cb9c735d89e4ca2f",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.8.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 4400,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "8527b288493a864dbcaf16068748eb5e",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.7.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 4400,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "629f7547aa4aa101ef908513a32db5df",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.6.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 4400,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "3c82ac7951176797ec6578667a77a1a0",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.5.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 4950,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "7a47d4a5ffd8b55ead885a77b147be3e",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.4.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 4950,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "1b92da8fb67092482589db2b6c848fa2",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/习题部分/题2.3.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 4950,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "a8ac26754b2aa4026cbe54e8d09b74ec",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第一章 行列式/习题部分/题1.8.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 4950,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "bbe719356686ec7baa64de9a42fcf1dc",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第一章 行列式/习题部分/题1.7.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 5500,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "0db9496627a509caf938d46d90156ccc",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第二章 矩阵/例题部分/题2.5.md",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 5500,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "665a8abfc34f477de5184a1e907117c0",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/例题部分/题3.7.md",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 5500,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "64f309eb94aa137a5fb600fe6621657c",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/例题部分/题3.5.md",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 5500,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "9daf7734f8ab38acbda14b88a91afee4",
+      "type": "file",
+      "file": "刷题/线代30讲-做题本/第三章 向量组/例题部分/题3.3.md",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 6050,
+      "width": 600,
+      "height": 500
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
